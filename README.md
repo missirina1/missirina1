@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! 🙋‍♀️ Я Ирина
 
-<!--
-**missirina1/missirina1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Фронтенд-разработчица с фокусом на современный стек: HTML, CSS, SCSS, JavaScript, React  
+🚀 Люблю превращать идеи в удобные и живые интерфейсы  
+📚 Сейчас изучаю TypeScript и работу с API  
+💡 Постоянно в поиске новых знаний и проектов
 
-Here are some ideas to get you started:
+## 🔧 Стек
+- HTML, CSS, SCSS
+- JavaScript, React
+- Git & GitHub
+- Figma, Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Связаться со мной:
+- Telegram: [@miss_Irina1]
+- Email: my@ipetuhova.ru
