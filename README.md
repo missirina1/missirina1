@@ -14,8 +14,7 @@
 ## 📫 Связаться со мной:
 - Telegram: [@miss_Irina1]
 - Email: my@ipetuhova.ru
-  
-![snake gif](https://github.com/missirina1/missirina1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/missirina1/missirina1/output/github-contribution-grid-snake.svg)
 
 
 
